@@ -9,7 +9,7 @@ async function main(){
     const mintAccount = new Web3.PublicKey('CCPgAYcDr1wFmb6SvEFksVrHAke6ZR8PsN881zA89XQc')
     const base58DecodedPK = base58.decode(process.env.SOL_PRIVATE_KEY || '')
     const signer = Web3.Keypair.fromSecretKey(base58DecodedPK)
-    const ownerOfTokenAccount = new Web3.PublicKey('9ej9BKP1gYFVGxPCme2C6is7PNAqN9uANH44VCMVN3Nn')
+    const ownerOfTokenAccount = new Web3.PublicKey('BwcRMZ2WFmKw1XMEPFiHSrLivNbfSLnexjoQYf48ixy2')
 
     const tokenAccount = await token.createAccount(
         connection,

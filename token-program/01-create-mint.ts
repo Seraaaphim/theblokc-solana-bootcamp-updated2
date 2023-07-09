@@ -2,7 +2,7 @@ import * as Web3 from '@solana/web3.js'
 import 'dotenv/config'
 import * as token from '@solana/spl-token'
 import base58 from 'bs58'
-//import { SystemProgram, LAMPORTS_PER_SOL, sendAndConfirmTransaction } from '@solana/web3.js'
+import { SystemProgram, LAMPORTS_PER_SOL, sendAndConfirmTransaction } from '@solana/web3.js'
 
 async function main(){
     const connection = new Web3.Connection(Web3.clusterApiUrl('devnet'))
@@ -23,6 +23,7 @@ async function main(){
     console.log('tokenMint', tokenMint.toBase58());
 
     // CCPgAYcDr1wFmb6SvEFksVrHAke6ZR8PsN881zA89XQc
+    // 3pTQ82DEyRHhmiRKvG1yWrjF3CMaLjeNRtJDLvYLbywt
 }
 
 main()
