@@ -22,8 +22,7 @@ async function main(){
 
     console.log('tokenMint', tokenMint.toBase58());
 
-    // CCPgAYcDr1wFmb6SvEFksVrHAke6ZR8PsN881zA89XQc
-    // 3pTQ82DEyRHhmiRKvG1yWrjF3CMaLjeNRtJDLvYLbywt
+    // tokenMint 6aFDj2C1yaDy7sqm2jwsqegDcCqk7jPn9758jcjqTpoJ
 }
 
 main()
