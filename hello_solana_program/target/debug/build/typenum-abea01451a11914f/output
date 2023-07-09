@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=D:\Bootcamp\hello_solana_program\target\debug\build\typenum-abea01451a11914f\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=D:\Bootcamp\hello_solana_program\target\debug\build\typenum-abea01451a11914f\out\op.rs
