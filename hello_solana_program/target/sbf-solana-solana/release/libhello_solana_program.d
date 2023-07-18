@@ -1,0 +1,1 @@
+/mnt/c/Users/oienwynouen/Desktop/Demo/Bootcamp/theblokc-solana-bootcamp/hello_solana_program/target/sbf-solana-solana/release/libhello_solana_program.rlib: /mnt/c/Users/oienwynouen/Desktop/Demo/Bootcamp/theblokc-solana-bootcamp/hello_solana_program/src/lib.rs

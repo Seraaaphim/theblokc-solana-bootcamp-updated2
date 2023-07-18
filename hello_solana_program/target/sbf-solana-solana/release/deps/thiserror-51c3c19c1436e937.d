@@ -1,0 +1,10 @@
+/mnt/c/Users/oienwynouen/Desktop/Demo/Bootcamp/theblokc-solana-bootcamp/hello_solana_program/target/sbf-solana-solana/release/deps/thiserror-51c3c19c1436e937.rmeta: /home/seraphim/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.43/src/lib.rs /home/seraphim/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.43/src/aserror.rs /home/seraphim/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.43/src/display.rs /home/seraphim/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.43/src/provide.rs
+
+/mnt/c/Users/oienwynouen/Desktop/Demo/Bootcamp/theblokc-solana-bootcamp/hello_solana_program/target/sbf-solana-solana/release/deps/libthiserror-51c3c19c1436e937.rlib: /home/seraphim/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.43/src/lib.rs /home/seraphim/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.43/src/aserror.rs /home/seraphim/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.43/src/display.rs /home/seraphim/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.43/src/provide.rs
+
+/mnt/c/Users/oienwynouen/Desktop/Demo/Bootcamp/theblokc-solana-bootcamp/hello_solana_program/target/sbf-solana-solana/release/deps/thiserror-51c3c19c1436e937.d: /home/seraphim/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.43/src/lib.rs /home/seraphim/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.43/src/aserror.rs /home/seraphim/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.43/src/display.rs /home/seraphim/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.43/src/provide.rs
+
+/home/seraphim/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.43/src/lib.rs:
+/home/seraphim/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.43/src/aserror.rs:
+/home/seraphim/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.43/src/display.rs:
+/home/seraphim/.cargo/registry/src/github.com-1ecc6299db9ec823/thiserror-1.0.43/src/provide.rs:
