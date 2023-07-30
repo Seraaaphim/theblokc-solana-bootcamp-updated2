@@ -1,0 +1,15 @@
+[features]
+seeds = false
+skip-lint = false
+[programs.devnet]
+kdapp = "9PRLRtCUjqBnUi4DwyXyWVLXgUkzTLRCxbpNeSxjytTs"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "devnet"
+wallet = "/home/seraphim/.config/solana/id.json"
+
+[scripts]
+test = "node tests/kdapp.js"
