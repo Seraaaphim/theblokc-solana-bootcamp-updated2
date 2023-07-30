@@ -1,0 +1,22 @@
+[features]
+seeds = false
+skip-lint = false
+[programs.localnet]
+mydapp = "8jKMsiwiqM2exhx4RZFNKQQ5Wpjuk7pVnFGb8KZ2S6Ec"
+
+[programs.devnet]
+mydapp = "8jKMsiwiqM2exhx4RZFNKQQ5Wpjuk7pVnFGb8KZ2S6Ec"
+
+[programs.mainnet]
+mydapp = "8jKMsiwiqM2exhx4RZFNKQQ5Wpjuk7pVnFGb8KZ2S6Ec"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "devnet"
+wallet = "/home/seraphim/.config/solana/id.json"
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
+copy-idl = "mkdir -p app/src/idl && cp target/idl/mydapp.json app/src/idl/mydapp.json"
